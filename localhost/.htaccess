@@ -8,3 +8,4 @@ AddCharset UTF-8 .html
    Header unset ETag
 </FilesMatch>
 Header set X-Content-Type-Options nosniff
+
